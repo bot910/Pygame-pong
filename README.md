@@ -9,6 +9,6 @@ A simple 1 player pong game in pygame
 <br>
 2. Install the .deb file
 <br>
-```
+```bash
 sudo dpkg -i pong_1.0.0_amd64.deb
 ```
