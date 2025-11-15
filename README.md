@@ -5,6 +5,7 @@ A simple 1 player pong game in pygame
 **Installation**
 (only linux is supported)
 <br>
+
 1. Download the .deb file
 <br>
 2. Install the .deb file
