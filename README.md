@@ -1,3 +1,12 @@
 # Pygame-pong
 A simple 1 player pong game in pygame
 
+
+Installation
+(only linux is supported)
+
+1 Download the .deb file
+
+```bash
+sudo dpkg -i pong_1.0.0_amd64.deb
+```
