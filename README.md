@@ -1,2 +1,3 @@
 # Pygame-pong
-My first pygame project, a simple pong game
+A simple 1 player pong game in pygame
+
